@@ -2,6 +2,12 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Overview
+CharityML is a fictitious charitable organization located in the heart of Silicon Valley that was created to provide financial support to people wanting to learn machine learning. After sending nearly 32,000 messages to people in the community, CharityML determined that every donation they received came from someone who was making more than $50,000 annually. To expand the base of potential donors, CharityML has decided to send letters to Californians, but only to those most likely to donate to the charity.
+
+### Project Goal
+My goal in this project is to evaluate and optimize several different supervised learners to determine the best algorithm to identify CharityML potential donors and reduce the overhead cost of sending mail. 
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -13,11 +19,11 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+I recommend installing [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ### Code
 
-Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+The code is provided in the `finding_donors.ipynb` notebook file. You will also need to use the included `visuals.py` Python file and the `census.csv` dataset file for the code to run. 
 
 ### Run
 
